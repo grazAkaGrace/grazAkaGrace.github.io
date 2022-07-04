@@ -1,0 +1,250 @@
+
+#mainbox {
+    background-image: linear-gradient(navy 3%, rgb(202, 240, 202) 3%, lightblue);
+    border-color: navy;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    padding-top: 20px;
+    margin: 0% auto auto auto;
+    align-self: center;
+    width: 600px;
+    height: 500px;
+
+}
+
+body {
+    min-width: 100%;
+}
+
+html {
+    background-image: url("https://altura.aurorak12.org/wp-content/uploads/sites/14/2016/08/HD-Blue-Sky-Wallpaper-1024x648.jpg");
+    background-size: 200%;
+    background-attachment: fixed;
+    background-position: 400%;
+}
+
+#title {
+    margin-left: 5%;
+}
+
+#purplebox {
+    margin: -52.4% 5% auto auto;
+    border-style: solid;
+    border-color: navy;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 0px 5px 5px 0px;
+    background-image: linear-gradient(navy 3%, lightblue 3%, lightyellow, lightpink);
+    width: 200px;
+    height: 520px;
+
+}
+
+#ami {
+    width: 167.5px;
+}
+
+#holder {
+    width: 1000px;
+    height: 20px;
+    margin: 2% auto auto 20%;
+    align-self: center;
+}
+
+#usa {
+    align-self: right;
+    margin-top: -160px;
+    margin-left: 320px;
+    position: fixed;
+    transform: rotate(-10deg);
+}
+
+.nav {
+    width: 180px;
+    margin-left: 10px;
+    height: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    color: deeppink;
+    font-weight: bold;
+    border-style: outset;
+    border-width: 40 pxx;
+    margin-top: 75px;
+}
+
+#gem {
+    margin-top: 75%;
+    margin-left: 25%;
+}
+
+
+#btn2 {
+    background-image: linear-gradient(to top, deeppink, pink);
+    border-color: hotpink;
+    margin-top: 25px;
+}
+
+#btn3 {
+    background-image: linear-gradient(to top, darkorange, lightyellow);
+    border-color: darkorange;
+}
+
+#btn4 {
+    background-image: linear-gradient(to top, seagreen, lightyellow);
+    border-color: lightgreen;
+}
+
+#btn5 {
+    background-image: linear-gradient(to top, royalblue, lightblue);
+    border-color: lightskyblue;
+}
+
+#btn3, #btn4, #btn5 {
+    margin-top: 10px;
+}
+
+#stamp1 {
+    margin-top: 10%;
+    margin-left: 20%;
+}
+
+.topstamps {
+    margin-left: 0.1%;
+}
+
+#venus {
+    z-index: -1;
+    width: 350px;
+    margin-top: -1000px;
+    margin-left: 250px;
+    transform: rotate(10deg);
+
+}
+
+#usagi {
+    z-index: -1;
+    width: 350px;
+    margin-top: -1000px;
+    margin-left: 715px;
+    transform: rotate(10deg);
+    transform: scaleX(-1);
+
+}
+
+#rei {
+    margin-top: -80px;
+    margin-left: 80px;
+}
+
+#stamp2 {
+    margin-top: 670px;
+    margin-left: 1220px;
+
+}
+
+.bottomstamps {
+    margin-left: -209px;
+}
+
+p {
+    width: 500px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: justify;
+    color: navy;
+    shape-outside: circle();
+}
+
+#text2 {
+    width: 300px;
+    text-align: left;
+}
+
+#musicplayer {
+    width: 180px;
+    height: 260px;
+    border-style: solid;
+    border-color: hotpink;
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 4px;
+    background-image: linear-gradient(plum 25%, lightpink, hotpink);
+    margin-left: 7.5px;
+    margin-top: -30px;
+
+}
+
+#timestamp {
+    width: 150px;
+    height: 50px;
+    border-style: outset;
+    border-radius: 100%;
+    border-color: pink;
+    margin-left: 12px;
+    margin-top: 40px;
+}
+
+#screen {
+    width: 165px;
+    height: 120px;
+    border-style: inset;
+    border-radius: 10px;
+    border-color: thistle;
+    background-image: linear-gradient(navy, cadetblue);
+    margin-left: 5.5px;
+    margin-top: 5.5px;
+}
+
+#sparkleheart {
+    margin-left: 45px;
+    margin-top: 5px;
+}
+
+#graz {
+    margin-top: -40px;
+    margin-left: 10px;
+    opacity: 90%;
+}
+
+#curtains {
+    margin-bottom: -75px;
+}
+
+#speechbubble {
+    border-style: solid;
+    border-color: purple;
+    background-image: linear-gradient(to right, purple, navy, seagreen, darkorange, hotpink, purple);
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 675px;
+    width: 500px;
+    border-bottom-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-width: 2px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-weight: bolder;
+}
+
+#july {
+    margin-bottom: -12px;
+}
+
+#here {
+    background-image: linear-gradient(deeppink, hotpink, pink);
+    color: white;
+    border-color: crimson;
+    border-radius: 2px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.lace {
+    width: 350px
+}
